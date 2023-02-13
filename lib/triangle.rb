@@ -30,7 +30,7 @@ class Triangle
 
   class TriangleError < StandardError
     # def message
-    # "Error Bitch"
+    # "Error identified"
     # end
   end
 end
